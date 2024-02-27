@@ -1,0 +1,1 @@
+voila --enable_nbextensions=True --strip_sources=False /path/to/your/notebook.ipynb
