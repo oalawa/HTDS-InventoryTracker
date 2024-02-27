@@ -22,8 +22,8 @@ HTDS-InventoryTracker is a specialized tool designed for high-throughput drug sc
 - **Real-Time Updates**: Make immediate changes to your inventory records and view updates in real time, enhancing data accuracy and reliability.
 - **Customizable**: Tailor the notebook to fit the specific needs of your lab, allowing for a personalized inventory management experience.
 
-![Inventory Management Interface]("C:\Users\omar7\OneDrive\الصور\Screenshots\Screenshot 2024-02-27 131055.png"
-"C:\Users\omar7\OneDrive\الصور\Screenshots\Screenshot 2024-02-27 131123.png")
+![Inventory Management Interface](screenshots/Screenshot_2024-02-27_131055.png)
+![Additional Screenshot](screenshots/Screenshot_2024-02-27_131123.png)
 *The interactive inventory management interface within Jupyter Notebook.*
 
 ## Getting Started
