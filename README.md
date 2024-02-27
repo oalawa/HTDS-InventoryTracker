@@ -3,6 +3,10 @@
 ## Overview
 HTDS-InventoryTracker is a specialized tool designed for high-throughput drug screening labs to efficiently manage and track their inventory. Developed using a Jupyter Notebook, this tool facilitates seamless interaction with Excel files, enabling users to perform real-time updates and management of inventory data. It stands out by offering a user-friendly interface and leveraging the powerful data processing capabilities of Python, making inventory management more accessible and less time-consuming.
 
+![Inventory Management Interface](screenshots/Screenshot_2024-02-27_131055.png)
+![Additional Screenshot](screenshots/Screenshot_2024-02-27_131123.png)
+*The interactive inventory management interface within Jupyter Notebook.*
+
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
@@ -21,10 +25,6 @@ HTDS-InventoryTracker is a specialized tool designed for high-throughput drug sc
 - **Excel Integration**: Directly read from and write to Excel files, ensuring a smooth workflow for updating inventory records.
 - **Real-Time Updates**: Make immediate changes to your inventory records and view updates in real time, enhancing data accuracy and reliability.
 - **Customizable**: Tailor the notebook to fit the specific needs of your lab, allowing for a personalized inventory management experience.
-
-![Inventory Management Interface](screenshots/Screenshot_2024-02-27_131055.png)
-![Additional Screenshot](screenshots/Screenshot_2024-02-27_131123.png)
-*The interactive inventory management interface within Jupyter Notebook.*
 
 ## Getting Started
 
