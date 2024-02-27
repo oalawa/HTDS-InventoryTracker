@@ -36,6 +36,10 @@ To try the HTDS-InventoryTracker in a live environment without installing anythi
 
 This will open the notebook in a temporary environment where you can test its functionality.
 
+[Access Inventory Management Interface](https://mybinder.org/v2/gh/oalawa/HTDS-InventoryTracker/main?urlpath=voila/render/Modified-Item-Output-inventory-test.ipynb)
+
+This will open the notebook for lab personnel in HTDS to make and track changes.
+
 ### Prerequisites
 - Python 3.6 or higher
 - Jupyter Notebook or JupyterLab
