@@ -3,11 +3,28 @@
 ## Overview
 HTDS-InventoryTracker is a specialized tool designed for high-throughput drug screening labs to efficiently manage and track their inventory. Developed using a Jupyter Notebook, this tool facilitates seamless interaction with Excel files, enabling users to perform real-time updates and management of inventory data. It stands out by offering a user-friendly interface and leveraging the powerful data processing capabilities of Python, making inventory management more accessible and less time-consuming.
 
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+- [FAQs](#faqs)
+- [Contact](#contact)
+
 ## Features
 - **Interactive Interface**: Utilize the Jupyter Notebook for an interactive experience that simplifies inventory management tasks.
 - **Excel Integration**: Directly read from and write to Excel files, ensuring a smooth workflow for updating inventory records.
 - **Real-Time Updates**: Make immediate changes to your inventory records and view updates in real time, enhancing data accuracy and reliability.
 - **Customizable**: Tailor the notebook to fit the specific needs of your lab, allowing for a personalized inventory management experience.
+
+![Inventory Management Interface]("C:\Users\omar7\OneDrive\الصور\Screenshots\Screenshot 2024-02-27 131055.png"
+"C:\Users\omar7\OneDrive\الصور\Screenshots\Screenshot 2024-02-27 131123.png")
+*The interactive inventory management interface within Jupyter Notebook.*
 
 ## Getting Started
 
@@ -52,5 +69,17 @@ For more detailed instructions, please see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Contact
 If you have any questions, feedback, or would like to get involved with the HTDS-InventoryTracker project, please open an issue in the GitHub repository or reach out directly via [GitHub Issues](https://github.com/oalawa/HTDS-InventoryTracker/issues).
+or contact us directly at [oma4008@med.cornell.edu].
+
+
+## FAQs
+Q: How do I resolve dependency issues?
+A: Ensure all dependencies are correctly installed by running `pip install -r requirements.txt`. If issues persist, consider creating a virtual environment for the project.
+
+Q: Can I use this tool with Google Sheets?
+A: Currently, the tool is optimized for Excel files. Integration with Google Sheets is a potential feature for future updates.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 We're excited to see how you use and improve HTDS-InventoryTracker!
