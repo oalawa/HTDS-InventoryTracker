@@ -1,0 +1,17 @@
+Category,Item,Boxes,Per case,Count,Company,organoids/imaging,Volume,Volume Unit,Dead Volume,Dead Volume Unit
+Cell Plates,Greiner bio 384 well,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A
+Cell Plates,"Thermofisher 384 well plates, 120uL",8,30,260,Thermofisher,yes,120,µL,N/A,N/A
+Drug source plates,"Costar 384 well plates, round bottom",0,0,250,Costar,N/A,90,µL,20,µL
+Drug source plates,Axygen 384 well 120uL drug storage plates,0,0,31,Axygen,N/A,120,µL,20,µL
+Drug source plates,Axygen 384 well 240uL drug storage plates,0,0,13,Axygen,N/A,240,µL,20,µL
+Reservoirs,Axygen 384 well low profile reservoir,0,0,158,Axygen,N/A,60,mL,15,mL
+Reservoirs,Axygen 96 well low profile reservoir,0,0,117,Axygen,N/A,60,mL,15,mL
+Reservoirs,Thermofisher 300mL flat bottom reservoir,0,0,44,Thermofisher,N/A,300,mL,75,mL
+Tips,"High res 384 well tips, 22uL",0,0,329,High Resolution Products,N/A,22,µL,N/A,N/A
+Tips,"High res 384 well tips, 70uL",0,0,325,High Resolution Products,N/A,70,µL,N/A,N/A
+Tips,"High res 96 well tips, 22uL for 384 head",0,0,184,High Resolution Products,N/A,22,µL,N/A,N/A
+Tips,"High res 96 well tips, 165uL",0,0,156,High Resolution Products,N/A,165,µL,N/A,N/A
+Other,Costar ultra-low cluster 96-well round bottom with lid,0,0,24,Costar,N/A,N/A,N/A,N/A,N/A
+Other,Costar 3610 96 well with lid white with clear flat bottom tissue culture treated,0,0,48,Costar,N/A,N/A,N/A,N/A,N/A
+Drug source plates / Validation,Greiner bio 96 well for suspension clear with condensation rings,0,0,180,Greiner Bio-One,N/A,N/A,N/A,N/A,N/A
+Cell Plates,Corning 3603 96Clr Flat btm PS TC Tream microplate,1,0,144,Corning,N/A,N/A,N/A,N/A,N/A
