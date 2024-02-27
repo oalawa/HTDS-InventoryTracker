@@ -50,9 +50,6 @@ We welcome contributions to the HTDS-InventoryTracker project! Whether it's feat
 
 For more detailed instructions, please see [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## License
-HTDS-InventoryTracker is released under the MIT License. See [LICENSE](LICENSE) for more details.
-
 ## Contact
 If you have any questions, feedback, or would like to get involved with the HTDS-InventoryTracker project, please open an issue in the GitHub repository or reach out directly via [GitHub Issues](https://github.com/oalawa/HTDS-InventoryTracker/issues).
 
