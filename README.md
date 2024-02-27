@@ -32,7 +32,7 @@ HTDS-InventoryTracker is a specialized tool designed for high-throughput drug sc
 
 To try the HTDS-InventoryTracker in a live environment without installing anything, click on the following Binder link:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Foalawa%2FHTDS-InventoryTracker/main?labpath=Modified-Item-Output-inventory-test.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oalawa/HTDS-InventoryTracker/main)
 
 This will open the notebook in a temporary environment where you can test its functionality.
 
