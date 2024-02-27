@@ -1,0 +1,8 @@
+name: my_environment
+dependencies:
+  - voila
+  - numpy
+  - pandas
+  - openpyxl
+  - xlrd
+  - jupyter
